@@ -1,7 +1,6 @@
 ![Welcome message](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=white&width=1000&lines=Hey%2C+I'm+YOosSef+<3;Welcome+to+my+GitHub+:%29; "Welcome Message")
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ousey-ousey&label=Profile%20views&color=0e75b6&style=flat" alt="meshojs" /> </p>
-![Lines of code](https://github-readme-stats.vercel.app/api?username=ousey-ousey&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
 <a href="#">
     <img alt="strak-stats" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=ousey-ousey&theme=omni&hide_border=true&theme=ayu-mirage" /> 
@@ -9,6 +8,7 @@
 </a>
 
 
+![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-X%20million%20lines%20of%20code-blue)
 - 👋 Hi, I’m @ousey-ousey
 - 👀 I’m interested in frontend 
 - 📫 How to reach me through linkedin 
