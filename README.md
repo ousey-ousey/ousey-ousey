@@ -1,6 +1,7 @@
 ![Welcome message](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1500&color=white&width=1000&lines=Hey%2C+I'm+YOosSef+<3;Welcome+to+my+GitHub+:%29; "Welcome Message")
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ousey-ousey&label=Profile%20views&color=0e75b6&style=flat" alt="meshojs" /> </p>
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.2%20million%20lines%20of%20code-blue)
 
 <a href="#">
     <img alt="strak-stats" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=ousey-ousey&theme=omni&hide_border=true&theme=ayu-mirage" /> 
