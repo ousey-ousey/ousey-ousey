@@ -6,12 +6,15 @@
 
 <p align="center">
   <!-- Streak (يظهر العدّ المتتالي للتزامي) -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ousey-ousey&theme=ayu-mirage&hide_border=true" height="140em" />
-  <!-- عدد الـ Commits و اللغات الأكثر استخدامًا -->
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ousey-ousey&show_icons=true&theme=ayu-mirage&hide_border=true" height="140em" />
-  <!-- خريطة النشاط اليومي (Commits calendar) -->
-  <br>
-  <img alt="GitHub Contribution Calendar" src="https://activity-graph.herokuapp.com/graph?username=ousey-ousey&theme=github-dark" />
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ousey-ousey&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ousey-ousey&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ousey-ousey&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
 </p>
 
 - 👋 Hi, I’m @ousey-ousey
