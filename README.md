@@ -3,6 +3,13 @@
 <h3 align="center">Frontend Developer | React & Next.js </h3>
 
 <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ousey-ousey)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ousey-ousey)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ousey-ousey&show_icons=true)  
+
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ousey-ousey&theme=darcula&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 </div>
