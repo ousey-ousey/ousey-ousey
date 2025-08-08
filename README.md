@@ -28,17 +28,10 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
- <!-- GitHub Stats -->
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=ousey-ousey&show_icons=true&theme=tokyonight&count_private=true)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ousey-ousey&theme=tokyonight&hide_border=false)
-
-<!-- GitHub Contribution Graph -->
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ousey-ousey&theme=tokyo-night)
-</p>
-
+<div align="center">
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ousey-ousey&show_icons=true&theme=radical&count_private=true)  
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ousey-ousey&theme=radical&hide_border=false&date_format=j%20M%20Y)  
+</div>
 ---
 
 ## 🛠 Tech Stack  
