@@ -3,16 +3,8 @@
 <h3 align="center">Frontend Developer | React & Next.js </h3>
 
 <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ousey-ousey&show_icons=true&theme=radical&count_private=true" 
-    alt="GitHub Stats" 
-    height="200"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ousey-ousey&theme=radical&hide_border=false&date_format=j%20M%20Y" 
-    alt="GitHub Streak" 
-    height="200"
-  />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ousey-ousey&theme=darcula&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+
 </div>
 
 ---
