@@ -1,9 +1,21 @@
-<!-- Banner -->
-
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm Yousef Alnoumany</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
+<h3 align="center">Frontend Developer | React & Next.js </h3>
 
+<div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ousey-ousey&show_icons=true&theme=radical&count_private=true" 
+    alt="GitHub Stats" 
+    height="200"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ousey-ousey&theme=radical&hide_border=false&date_format=j%20M%20Y" 
+    alt="GitHub Streak" 
+    height="200"
+  />
+</div>
+
+---
 <!-- Badges -->
 <p align="center">
   <a href="https://yalnoumany.vercel.app" target="_blank">
@@ -27,12 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ousey-ousey&show_icons=true&theme=radical&count_private=true)  
-    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ousey-ousey&theme=radical&hide_border=false&date_format=j%20M%20Y)  
-</div>
----
 
 ## 🛠 Tech Stack  
 <p align="center">
