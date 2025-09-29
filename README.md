@@ -15,7 +15,7 @@
       <img src="https://streak-stats.demolab.com?user=ousey-ousey&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
     </a>
 
-    <img src="https://wakatime.com/badge/user/4898394e-d678-4366-a4c3-a3d5483a37e5/46c03429-1996-41e3-98af-45182937740f.svg" alt="Coding Activity" />
+    <img src="https://wakatime.com/badge/user/ousey-ousey.svg" alt="WakaTime Badge" />
   </div>
 </p>
 
