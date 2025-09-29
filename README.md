@@ -14,19 +14,17 @@
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://yalnoumany.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-48A0E4?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://linkedin.com/in/yousef-alnoumany" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:solo.miner.oo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <a href="https://yalnoumany.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-48A0E4?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/yousef-alnoumany" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:solo.miner.oo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</div>
 ---
 
 ## 🚀 About Me  
