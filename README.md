@@ -4,18 +4,13 @@
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=ousey-ousey&show_icons=true&theme=dark" alt="GitHub Stats" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ousey-ousey&theme=dark&layout=compact" alt="Top Languages" />
   </div>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=ousey-ousey&theme=dark&border_radius=7)](https://git.io/streak-stats)
   
   <br>
 
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=ousey-ousey&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
-    </a>
 
-    <img src="https://wakatime.com/badge/user/ousey-ousey.svg" alt="WakaTime Badge" />
   </div>
 </p>
 
