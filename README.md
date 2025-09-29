@@ -3,10 +3,8 @@
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ousey-ousey&theme=dark&border_radius=7" alt="GitHub Streak" /></a>
-
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=ousey-ousey&show_icons=true&theme=dark" alt="GitHub Stats" />
-  </div>
+ 
   
   <br>
 
@@ -37,12 +35,6 @@
 - 🌍 Interested in **remote work** with international teams  
 - 📈 Passionate about building **scalable, responsive** web applications  
 
----
-
-## 💻 WakaTime Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ousey-ousey&layout=compact&theme=dark&langs_count=10&hide_progress=true" alt="WakaTime Stats" />
-</p>
 
 ---
 
