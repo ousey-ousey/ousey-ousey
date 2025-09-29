@@ -2,8 +2,9 @@
 <h3 align="center">Frontend Developer | React & Next.js </h3>
 
 <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=ousey-ousey&theme=dark&border_radius=7)](https://git.io/streak-stats)
-  <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ousey-ousey&theme=dark&border_radius=7" alt="GitHub Streak" /></a>
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=ousey-ousey&show_icons=true&theme=dark" alt="GitHub Stats" />
   </div>
   
